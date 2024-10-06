@@ -1,0 +1,12 @@
+
+// request =  http://localhost:8001/anual_data/34111249020000
+{
+  "data": {
+    "BRINE": 41411,
+    "GAS": 3111490,
+    "OIL": 0
+  },
+  "status": "success",
+  "status_code": 200,
+  "status_desc": "successfully fetched the data."
+}
